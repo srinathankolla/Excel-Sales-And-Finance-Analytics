@@ -1,4 +1,4 @@
-## Excel Sales And Finance Analytics:
+## Sales And Finance Analytics Of AtliQ Hardwares:
 
 **Project Goals:**
 
